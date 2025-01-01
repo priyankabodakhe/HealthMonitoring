@@ -53,6 +53,17 @@ o	datetime: To get current date and time
 </p>
 
 ![img1](https://github.com/user-attachments/assets/fcb8b903-0242-48db-bcd8-c366a86ce746)
+![image](https://github.com/user-attachments/assets/2c72e8a4-ebc2-4f5c-8b9d-42d6be553a06)
+![image](https://github.com/user-attachments/assets/4d99c34f-3dda-434a-a0d6-7717090b81df)
+![image](https://github.com/user-attachments/assets/c1ff47e5-9155-4ff3-bd03-31ff8577586a)
+![image](https://github.com/user-attachments/assets/9c86dd21-9e43-4d49-a709-6d70881fd090)
+![image](https://github.com/user-attachments/assets/eb4cc75e-c549-41f8-a13a-01c4c29b5442)
+![image](https://github.com/user-attachments/assets/73c9786e-8592-4430-af78-7f91405610fc)
+![image](https://github.com/user-attachments/assets/6d022c8c-2a34-45e4-a16a-3c8a81580a8d)
+
+
+
+
 
 
 
