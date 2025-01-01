@@ -49,11 +49,10 @@ o	datetime: To get current date and time
 •	Fitness Enthusiasts
 •	Patients with chronic health conditions 
 •	Healthcare professionals seeking to monitor patient data
-
 </pre>
-
 </p>
 
+<img src="file:///C:/Users/Shree/Pictures/img1.jpg" alt="Health Monitoring System" style="max-width: 100%; height: auto;">
 
 
 
