@@ -1,5 +1,5 @@
 class BMI:
-    @staticmethod
+    
     def calculate_bmi(weight, height):
         """Calculate and return BMI"""
         bmi = weight / (height ** 2)
