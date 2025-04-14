@@ -2,7 +2,7 @@
 Python project to monitore user health parameters like BMI,water intake,calories Tracker, Hert rate analysis,Basic Symptoms Cheaker,Simple Stress level Cheaking from user input
 
 <h3>Project Description:</h3>
-<h6>
+<h6> 
 	The Health Monitoring System helps users to track key health metrics like BMI , Total Calories , Water intake , stress level , heart rate and sleep patterns.
 It aims to make it easier for individuals to monitor their health and make informed, healthier choices.
 
